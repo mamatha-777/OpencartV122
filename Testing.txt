@@ -7,4 +7,9 @@
 //this is a test file
 //this is a test file
 //this is a test file
+<<<<<<< HEAD
 //////////this is a file changes comiiting to new branch 
+=======
+
+//////////this is a file  in to master branch 
+>>>>>>> bc511abc988783fe134ed1ba707834505698ae24
