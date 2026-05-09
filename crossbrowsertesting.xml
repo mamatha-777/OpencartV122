@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" thread-count="5" parallel="tests">
+  
+  	<listeners>
+	 	<listener class-name="utilities.ExtentReportManager"></listener>
+	</listeners>
+  <test name="chromeTest">
+  <parameter name="os" value="windows"></parameter>
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+    <test  name="edgeTest">
+  <parameter name="os" value="windows"></parameter>
+  <parameter name="browser" value="firefox"></parameter>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+    </classes>
+  </test> <!-- Test -->
+   
+
+  
+</suite> <!-- Suite -->
