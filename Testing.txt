@@ -13,3 +13,5 @@
 
 //////////this is a file  in to master branch 
 >>>>>>> bc511abc988783fe134ed1ba707834505698ae24
+
+///adding the new line to test the pr functionality 
