@@ -7,4 +7,18 @@
 //this is a test file
 //this is a test file
 //this is a test file
+<<<<<<< Updated upstream
 //////////this is a file changes comiiting to new branch 
+=======
+<<<<<<< HEAD
+//////////this is a file changes comiiting to new branch 
+=======
+
+//////////this is a file  in to master branch 
+>>>>>>> bc511abc988783fe134ed1ba707834505698ae24
+
+///adding the new line to test the pr functionality 
+
+//adding the new line to the fist test branch for testign the pull request functionality 
+
+>>>>>>> Stashed changes
